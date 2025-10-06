@@ -1,4 +1,4 @@
-# ❄️ Snowpipe – Continuous Data Ingestion with Pipeline Flows (Fixed GitHub Diagrams)
+# ❄️ Snowpipe – Continuous Data Ingestion with Pipeline Flows
 
 Snowpipe enables **continuous, automated loading of data** into Snowflake from cloud storage like **AWS S3** or **Azure Blob Storage**.
 It listens for file arrival events and triggers a `COPY INTO` operation automatically — eliminating the need for manual loads.
